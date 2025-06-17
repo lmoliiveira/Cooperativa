@@ -1,7 +1,7 @@
 # Processo seletivo Doctum - Cooperativa
 
 ## Especificações técnicas
-- Sistema operacional: Windowns
+- Sistema operacional: Windows
 - Linguagem: PHP - PHP 8.2.23 
 - XAMPP v3.3.0
 - Banco de dados: MySQL
