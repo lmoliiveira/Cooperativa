@@ -15,7 +15,7 @@
   - admin@admin.com
   - admin123
  
-- Outros acessos por padrão
+- Outros acessos já registrados são por padrão
   - nome@gmail.com
   - 123123
  
